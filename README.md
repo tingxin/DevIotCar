@@ -13,6 +13,8 @@ The SDK focus on follow things:
 * Recevie command from DevIot to trigger the sensor
 
 ![IoT Gateway Service Architecture](Images/structure.png "IoT Gateway Service Architecture")
+### Demo video
+https://www.youtube.com/watch?v=fWhCpZyXCyk&feature=youtu.be
 ## Table of contents
 
 * [What in this code](#what-in-this-code)
